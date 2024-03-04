@@ -6,7 +6,7 @@
 const usernames: string[] = ['admin', 'Ahmed', 'Ali', 'Saad', 'Farhad'];
 
 
-usernames.forEach(username) => {
+usernames.forEach(username => {
 
   if (username.toLowerCase() === 'admin') {
     console.log('Hello admin, would you like to see a status report?');
