@@ -2,10 +2,10 @@
 // Date: 19-2-24
 
 
-const current_users: string[] = ['Ahmed', 'Haider', 'Pari', 'Sara', 'Zihan'];
+const current_users: string[] = ['ahmed', 'haider', 'pari', 'fari', 'zihan'];
 
 
-const new_users: string[] = ['Maira', 'Haider', 'danish', 'Salman', 'usman'];
+const new_users: string[] = ['ahmed', 'Haider', 'danish', 'Salman', 'usman'];
 
 
 for (let new_user of new_users) {
