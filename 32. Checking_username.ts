@@ -5,7 +5,7 @@
 const current_users: string[] = ['ahmed', 'haider', 'pari', 'fari', 'zihan'];
 
 
-const new_users: string[] = ['ahmed', 'Haider', 'danish', 'Salman', 'usman'];
+const new_users: string[] = ['ahmed', 'haider', 'danish', 'Salman', 'usman'];
 
 
 for (let new_user of new_users) {
